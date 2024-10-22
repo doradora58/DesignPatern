@@ -1,0 +1,16 @@
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\bin\Debug\net8.0-windows\DesignPatern.exe
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\bin\Debug\net8.0-windows\DesignPatern.deps.json
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\bin\Debug\net8.0-windows\DesignPatern.runtimeconfig.json
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\bin\Debug\net8.0-windows\DesignPatern.dll
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\bin\Debug\net8.0-windows\DesignPatern.pdb
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.Form1.resources
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.csproj.GenerateResource.cache
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.GeneratedMSBuildEditorConfig.editorconfig
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.AssemblyInfoInputs.cache
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.AssemblyInfo.cs
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.csproj.CoreCompileInputs.cache
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.dll
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\refint\DesignPatern.dll
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.pdb
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\DesignPatern.genruntimeconfig.cache
+C:\work\01_source\DesignPatern\DesignPatern\DesignPatern\obj\Debug\net8.0-windows\ref\DesignPatern.dll
